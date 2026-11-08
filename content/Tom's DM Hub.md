@@ -1,18 +1,19 @@
 ---
 publish: true
 created: 2026-11-03T03:53:17.897Z
-modified: 2026-11-03T04:21:24.790Z
+modified: 2026-11-07T13:25:23.263Z
 ---
 
 Welcome to my DM Hub, in a digital garden format.
 
-This space is for players in my world to have access:
+This space is for players and  in my world to have access:
 
 My Campaign
 
 - [[Lore]]
 - [[Maps]]
 - [[NPCs]]
+- [[Homebrew Rules]]
 
 My Creations
 
@@ -20,7 +21,7 @@ My Creations
 - [[Protypes and mock ups]]
 - [[Miniatures]]
 
-A Campaign Diary from my DM perspectives
+Extras
 
 - [[Tom's Campaign Diary]]
 - [[Appendix T]]
