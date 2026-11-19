@@ -1,7 +1,8 @@
 ---
 publish: true
+title: Welcome
 created: 2026-11-03T03:53:17.897Z
-modified: 2026-11-18T18:31:54.103Z
+modified: 2026-11-19T18:53:59.725Z
 ---
 
 Welcome to my DM Hub, in a digital garden format.
@@ -22,6 +23,6 @@ My Creations
 - [[Miniatures]]
 
 Extras
+[[Tom's Campaign Diary]]
 
-- [[Tom's Campaign Diary]]
 - [[Appendix T]]
